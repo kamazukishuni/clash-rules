@@ -1,14 +1,20 @@
 # 内容：日本代理
-# 数量：11条
-DOMAIN-SUFFIX,dmm-extension.com, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.co.jp, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.com, 🇯🇵 日本代理
-DOMAIN-KEYWORD,dmm, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.hk, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmmgames.com, 🇯🇵 日本代理
-DOMAIN,prd-storage-umamusume.akamaized.net, 🇯🇵 日本代理
-DOMAIN-SUFFIX,cygames.jp, 🇯🇵 日本代理
-DOMAIN-KEYWORD,umamusume, 🇯🇵 日本代理
-DOMAIN-SUFFIX,azurlane, 🇯🇵 日本代理
-DOMAIN-SUFFIX,jp, 🇯🇵 日本代理
-DOMAIN-SUFFIX,gamewith.jp, 🇯🇵 日本代理
+# 数量：18条
+DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-KEYWORD,dmm,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.hk,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,dmmgames.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN,prd-storage-umamusume.akamaized.net,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,cygames.jp,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-KEYWORD,umamusume,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,azurlane,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,jp,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,gamewith.jp,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,cloud.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,jp-match.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,android-us-crashsight.iegcom.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,jp-lobby.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,us.mtp.iegcom.com,🇯🇵 日本代理, 🇯🇵 日本代理
