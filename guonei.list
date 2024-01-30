@@ -1,3 +1,6 @@
 # 内容：麦瑞克
-# 数量：1条
+# 数量：4条
+DOMAIN-SUFFIX,vod.merach.com
+DOMAIN-SUFFIX,liveplay.merach.com
+DOMAIN-SUFFIX,api.merach.com
 DOMAIN-KEYWORD,merach
