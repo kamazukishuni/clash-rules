@@ -1,21 +1,36 @@
 # 内容：日本代理
 # 数量：18条
-DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-KEYWORD,dmm,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmm.hk,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,dmmgames.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN,prd-storage-umamusume.akamaized.net,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,cygames.jp,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-KEYWORD,umamusume,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,azurlane,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,jp,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,gamewith.jp,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,cloud.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,jp-match.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,android-us-crashsight.iegcom.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,perf-events.cloud.unity3d.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,jp-lobby.nikke-kr.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-SUFFIX,us.mtp.iegcom.com,🇯🇵 日本代理, 🇯🇵 日本代理
-DOMAIN-KEYWORD,shiftupcorp.com,🇯🇵 日本代理, 🇯🇵 日本代理
+DOMAIN-SUFFIX,example.com,🇯🇵 日本代理
+IP-CIDR,129.226.2.109/24,🇯🇵 日本代理
+DOMAIN-SUFFIX,api-crasheye.testplus.us,🇯🇵 日本代理
+DOMAIN-SUFFIX,app.adjust.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,dl.listdl.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,snowbreak-ea-serverlist.amazingseasuncdn.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,snowbreak-dl.amazingseasuncdn.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,kx486hcreg.execute-api.us-east-1.amazonaws.com,🇯🇵 日本代理
+IP-CIDR,172.65.197.121/24,🇯🇵 日本代理
+DOMAIN-SUFFIX,qn.amazingseasun.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,snowbreak-content.amazingseasuncdn.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,xgsdk.xoyo.games,🇯🇵 日本代理
+DOMAIN-SUFFIX,glcs.listdl.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,snowbreak-ea-chat.amazingseasuncdn.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,xgdata.xoyo.games,🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm-extension.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.com,🇯🇵 日本代理
+DOMAIN-KEYWORD,dmm,🇯🇵 日本代理
+DOMAIN-SUFFIX,dmm.hk,🇯🇵 日本代理
+DOMAIN-SUFFIX,dmmgames.com,🇯🇵 日本代理
+DOMAIN,prd-storage-umamusume.akamaized.net,🇯🇵 日本代理
+DOMAIN-SUFFIX,cygames.jp,🇯🇵 日本代理
+DOMAIN-KEYWORD,umamusume,🇯🇵 日本代理
+DOMAIN-SUFFIX,azurlane,🇯🇵 日本代理
+DOMAIN-SUFFIX,jp,🇯🇵 日本代理
+DOMAIN-SUFFIX,gamewith.jp,🇯🇵 日本代理
+DOMAIN-SUFFIX,cloud.nikke-kr.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,jp-match.nikke-kr.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,android-us-crashsight.iegcom.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,jp-lobby.nikke-kr.com,🇯🇵 日本代理
+DOMAIN-SUFFIX,us.mtp.iegcom.com,🇯🇵 日本代理
+DOMAIN-KEYWORD,shiftupcorp.com,🇯🇵 日本代理
