@@ -1,5 +1,6 @@
 # 内容：日本代理
 # 数量：18条
+DOMAIN-KEYWORD,zodgame
 DOMAIN-SUFFIX,example.com
 IP-CIDR,129.226.2.109/24
 DOMAIN-SUFFIX,api-crasheye.testplus.us
