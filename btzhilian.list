@@ -1,1 +1,31 @@
-
+# 内容：直连
+# 数量：18条
+DOMAIN-SUFFIX,api-p0.yksdks.com
+DOMAIN-SUFFIX,api-c.dutils.com
+DOMAIN-SUFFIX,android.bugly.qq.com
+DOMAIN-SUFFIX,api-share.mob.com
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
+DOMAIN-SUFFIX,api.merach.com
+IP-CIDR,27.44.204.68/24
+DOMAIN-SUFFIX,devs-data.dutils.com
+DOMAIN-SUFFIX,api-d.dutils.com
+DOMAIN-SUFFIX,sdk-open-phone.getui.com
+DOMAIN-SUFFIX,cm-10-41.getui.com
+IP-CIDR,198.18.0.155/24
+DOMAIN-SUFFIX,mpush-api.aliyun.com
+DOMAIN-SUFFIX,vpp-license-proxy.aliyuncs.com
+DOMAIN-SUFFIX,cloud-config-service.rtc.aliyuncs.com
+DOMAIN-SUFFIX,videocloud.cn-hangzhou.log.aliyuncs.com
+IP-CIDR,124.70.159.59/24
+DOMAIN-SUFFIX,ntp.aliyun.com
+DOMAIN-SUFFIX,vod.merach.com
+IP-CIDR,139.9.46.117/24
+DOMAIN-SUFFIX,b-gtc.getui.net
+IP-CIDR,124.160.124.210/24
+DOMAIN-SUFFIX,cm-10-44.getui.com
+IP-CIDR,1.92.148.235/24
+DOMAIN-SUFFIX,sdk.open.talk.getui.com
+DOMAIN-SUFFIX,merit-app.oss-cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,status-ipv6.jpush.cn
+IP-CIDR,124.160.124.210/24
+DOMAIN-SUFFIX,cm-10-32.getui.com
