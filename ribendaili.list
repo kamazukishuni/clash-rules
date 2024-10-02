@@ -28,9 +28,13 @@ DOMAIN,prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-KEYWORD,umamusume
 DOMAIN-SUFFIX,azurlane
+DOMAIN-SUFFIX,blhxstatic.yo-star.com
 DOMAIN-SUFFIX,jp
 DOMAIN-SUFFIX,gamewith.jp
 DOMAIN-SUFFIX,cloud.nikke-kr.com
+DOMAIN-SUFFIX,crl3.digicert.com
+DOMAIN-SUFFIX,x1.c.lencr.org
+DOMAIN-SUFFIX,blhxstatic.yo-star.com
 DOMAIN-SUFFIX,kr-lobby.nikke-kr.com
 DOMAIN-SUFFIX,global-lobby.nikke-kr.com
 DOMAIN-SUFFIX,sea-lobby.nikke-kr.com
