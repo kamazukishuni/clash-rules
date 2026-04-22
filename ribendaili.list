@@ -64,10 +64,10 @@ DOMAIN-SUFFIX,us.mtp.iegcom.com
 DOMAIN-KEYWORD,shiftupcorp.com
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-KEYWORD,patreonusercontent
-DOMAIN-SUFFIX,thinking.gentlemaniac.com
-DOMAIN-SUFFIX,gentlemaniac.com
-DOMAIN-SUFFIX,horizon-ncp.gentlemaniac-dev.com
-DOMAIN-SUFFIX,gentlemaniac-dev.com
-DOMAIN-SUFFIX,cdn-cos.gentlemaniac-dev.com
-DOMAIN-SUFFIX,gentlemaniac-dev.com
-DOMAIN-SUFFIX,entrance-ncp.gentlemaniac-dev.com
+DOMAIN,thinking.gentlemaniac.com
+DOMAIN,gentlemaniac.com
+DOMAIN,horizon-ncp.gentlemaniac-dev.com
+DOMAIN,gentlemaniac-dev.com
+DOMAIN,cdn-cos.gentlemaniac-dev.com
+DOMAIN,gentlemaniac-dev.com
+DOMAIN,entrance-ncp.gentlemaniac-dev.com
