@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,nikke
 DOMAIN-SUFFIX,ocsp2.globalsign.com
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,crl.globalsign.com
+DOMAIN-SUFFIX,data-aws-na.intlgame.com
 # 地平线行者
 DOMAIN-SUFFIX,thinking.gentlemaniac.com
 DOMAIN-SUFFIX,gentlemaniac.com
