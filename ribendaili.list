@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,gentlemaniac-dev.com
 DOMAIN-SUFFIX,cdn-cos.gentlemaniac-dev.com
 DOMAIN-SUFFIX,gentlemaniac-dev.com
 DOMAIN-SUFFIX,entrance-ncp.gentlemaniac-dev.com
+# 异环
+DOMAIN,plist-yhglo.perfectworld.com
+DOMAIN-SUFFIX,plist-yhglo.perfectworld.com
+DOMAIN-SUFFIX,perfectworld.com
